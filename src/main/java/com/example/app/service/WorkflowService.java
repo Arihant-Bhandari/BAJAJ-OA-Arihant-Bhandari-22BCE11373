@@ -109,8 +109,4 @@ public class WorkflowService {
                 "ORDER BY p.amount DESC " +
                 "LIMIT 1;";
     }
-
-    private String getQuestion2Query() {
-        return "/* Replace with SQL from Question 2 PDF */ SELECT 1;";
-    }
 }
