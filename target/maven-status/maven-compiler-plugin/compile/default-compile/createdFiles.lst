@@ -1,0 +1,3 @@
+com\bfh\solution\Application.class
+com\bfh\solution\config\RestTemplateConfig.class
+com\bfh\solution\service\WorkflowService.class
